@@ -1,16 +1,16 @@
 class Translation(object):
-    START_TEXT = """<b>𝙎𝘾𝙍𝘼𝙋 𝙈𝘼𝙉 di buat untuk Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah dan AMAN!
+    START_TEXT = """<b>Queen Scrapper Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah!
 ━━━━━━━━━━━━━━━━━━━━━━━━
-Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format Kode Negara.
+Masukin Nomor HP Lu Tod! Jangan Lupa Pake +62.
 Contoh : +628xxxxxxx</b>
 """
-    AFTER_RECVD_CODE_TEXT = """No HP Diterima!
-Silahkan kirimkan kode yang Anda terima dari Telegram!
+    AFTER_RECVD_CODE_TEXT = """Udah Masuk Nih Tod!
+kirim kode yang dari Telegram Nyed!
 
-Kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja
+Kode ini cuma dipake buat dapet ID APP dari my.telegram.org
+Kalo lu gak percaya botnya, Ngambil Manual aja Ngentod !
 """
-    BEFORE_SUCC_LOGIN = "Kode Diterima. Scarpping Web Page..."
+    BEFORE_SUCC_LOGIN = "Kode Dah Masuk Nyomot Data Dari Telegram..."
     ERRED_PAGE = """Hadeh Error. Coba dengan Cara Manual
 
 Cara Ambil APP ID dan API HASH Secara Manual
@@ -26,5 +26,5 @@ Cara Ambil APP ID dan API HASH Secara Manual
 
 Bila Berhasil Ambil Manual Silahkan Coba Lagi di Bot ini"""
     CANCELLED_MESG = "Bye! Silahkan /start kembali untuk mengulang"
-    IN_VALID_CODE_PVDED = "Kode OTP yang anda Masukan SALAH"
-    IN_VALID_PHNO_PVDED = "No HP yang anda masukan SALAH, Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format Kode Negara.\nContoh: +628xxxxxxx"
+    IN_VALID_CODE_PVDED = "Kode Nya Salah Ngentod"
+    IN_VALID_PHNO_PVDED = "No HP SALAH, Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format Kode Negara.\nContoh: +628xxxxxxx"
