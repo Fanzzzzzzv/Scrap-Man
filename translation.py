@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """<b>Queen Scrapper Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah!
+    START_TEXT = """<b>Scrapper botMembantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah!
 ━━━━━━━━━━━━━━━━━━━━━━━━
 Masukin Nomor HP Lu Tod! Jangan Lupa Pake +62.
 Contoh : +628xxxxxxx</b>
